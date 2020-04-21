@@ -31,4 +31,20 @@ $(document).ready(function() {
     $("#showing-8").toggle();
     $("#hidden-8").toggle();
   });
+  $(".clickable-9").click(function() {
+    $("#showing-9").toggle();
+    $("#hidden-9").toggle();
+  });
+  $(".clickable-10").click(function() {
+    $("#showing-10").toggle();
+    $("#hidden-10").toggle();
+  });
+  $(".clickable-11").click(function() {
+    $("#showing-11").toggle();
+    $("#hidden-11").toggle();
+  });
+  $(".clickable-12").click(function() {
+    $("#showing-12").toggle();
+    $("#hidden-12").toggle();
+  });
 });

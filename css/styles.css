@@ -30,6 +30,23 @@
   display: none;
 }
 
-.row {
-  padding: 15px;
+#showing-9 {
+  display: none;
+}
+
+#showing-10 {
+  display: none;
+}
+
+#showing-11 {
+  display: none;
+}
+
+#showing-12 {
+  display: none;
+}
+
+.col-md-3 {
+  padding: 20px;
+  min-height: 85px;
 }
