@@ -15,4 +15,20 @@ $(document).ready(function() {
     $("#showing-4").toggle();
     $("#hidden-4").toggle();
   });
+  $(".clickable-5").click(function() {
+    $("#showing-5").toggle();
+    $("#hidden-5").toggle();
+  });
+  $(".clickable-6").click(function() {
+    $("#showing-6").toggle();
+    $("#hidden-6").toggle();
+  });
+  $(".clickable-7").click(function() {
+    $("#showing-7").toggle();
+    $("#hidden-7").toggle();
+  });
+  $(".clickable-8").click(function() {
+    $("#showing-8").toggle();
+    $("#hidden-8").toggle();
+  });
 });
